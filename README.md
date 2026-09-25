@@ -1,5 +1,7 @@
 # GTAIV-BudgetCalculator-Python
 
+MODIFY PEDBUDGET ONLY AS LAST RESORT. THIS SCRIPT IS UNLIKELY TO BE CALCULATING THE "CORRECT" VALUE.
+
 This is a Python script that will calculate VehicleBudget and PedBudget. 
 
 It should be noted: these values are not to be taken as "absolute," use the values calculated from this script as a starting point. If you notice things such as missing models or invisible peds/body parts, your budget may still be too low. Inversely, if you are getting increased stutters, worse overall performance, and even crashes due to these adjustments then your budget may be too high.
